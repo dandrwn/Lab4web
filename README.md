@@ -47,5 +47,7 @@ KELAS   : TI.20.B1 <br>
 ![input81](foto/8.2.jpg)<br>
 ![Output82](foto/8.3.jpg)<br>
 
-
+## Penambahan about dan kontak
+![input8](foto/ac.jpg)<br>
+![Output8](foto/kh.jpg)<br>
 
